@@ -1,0 +1,165 @@
+{
+  "comment": "A comprehensive, curated list of stampede-prone locations and historical incidents in India, based on provided data.",
+  "locations": [
+    {
+      "id": "kumbh_mela_prayagraj",
+      "name": "Kumbh Mela Site, Prayagraj (Allahabad)",
+      "city": "Prayagraj",
+      "state": "Uttar Pradesh",
+      "type": "Religious Gathering Site",
+      "risk_factors": {
+        "history_of_incidents": true,
+        "known_bottlenecks": "Bathing ghats (Sangam), pontoon bridges, and connecting railway stations.",
+        "common_triggers": "Massive crowds on auspicious days ('Shahi Snan'), pilgrims rushing for trains post-event, general crowd control failures.",
+        "terrain_issues": "Temporary structures can fail; massive, open, unstructured areas."
+      },
+      "historical_incidents": [
+        {"date": "2025-01-29", "deaths": 30, "injured": 60, "cause": "Pilgrims jostling for space during holy dip."},
+        {"date": "2013-02-10", "deaths": 42, "injured": 45, "cause": "Stampede at Allahabad railway station as pilgrims departed."},
+        {"date": "1954-02-03", "deaths": "500-800", "injured": "2000+", "cause": "Failure of crowd control measures."},
+        {"date": "1906-01-01", "deaths": "50+", "injured": "100+", "cause": "Historical incident, details sparse."},
+        {"date": "1840-01-01", "deaths": "50+", "injured": "100+", "cause": "Historical incident, details sparse."}
+      ]
+    },
+    {
+      "id": "kumbh_mela_haridwar",
+      "name": "Kumbh Mela Site, Haridwar",
+      "city": "Haridwar",
+      "state": "Uttarakhand",
+      "type": "Religious Gathering Site",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Har-ki-Pauri ghat, narrow approach lanes.", "common_triggers": "Heavy rush of devotees on bathing days.", "terrain_issues": "River banks, dense urban layout."},
+      "historical_incidents": [
+        {"date": "2011-11-08", "deaths": 20, "injured": "Many", "cause": "Stampede at Har-ki-Pauri ghat."},
+        {"date": "2010-04-14", "deaths": 7, "injured": 17, "cause": "Stampede during Kumbh Mela."},
+        {"date": "1986-03-01", "deaths": 50, "injured": "200+", "cause": "Historical incident, details sparse."},
+        {"date": "1820-03-01", "deaths": 430, "injured": "1000+", "cause": "Historical incident, details sparse."}
+      ]
+    },
+    {
+      "id": "chinnaswamy_stadium_bengaluru",
+      "name": "M. Chinnaswamy Stadium",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Sports Stadium",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Entry/exit gates during high-profile events.", "common_triggers": "Post-match celebrations, attempts at forcible entry, ticket queues.", "terrain_issues": "None."},
+      "historical_incidents": [{"date": "2025-06-04", "deaths": 11, "injured": "50+", "cause": "Fans attempting forcible entry during IPL victory celebration."}]
+    },
+    {
+      "id": "sabarimala_temple_kerala",
+      "name": "Sabarimala Temple & Pilgrimage Route",
+      "city": "Sabarimala",
+      "state": "Kerala",
+      "type": "Religious Site",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Narrow forest paths (e.g., Pulmedu), main temple complex.", "common_triggers": "Heavy rush during Mandala-Makaravilakku season, vehicle accidents on pilgrim routes.", "terrain_issues": "Hilly, difficult terrain."},
+      "historical_incidents": [
+        {"date": "2011-01-14", "deaths": 104, "injured": "456", "cause": "Jeep crashed into pilgrims, causing panic on a narrow path."},
+        {"date": "1999-01-14", "deaths": 53, "injured": "200+", "cause": "Crowd crush."}
+      ]
+    },
+    {
+      "id": "ratangarh_mata_temple_datia",
+      "name": "Ratangarh Mata Temple",
+      "city": "Datia",
+      "state": "Madhya Pradesh",
+      "type": "Religious Site",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Bridge over the Sindh river leading to the temple.", "common_triggers": "Rumors of bridge collapse during Navratri.", "terrain_issues": "Reliance on a single bridge for access."},
+      "historical_incidents": [
+        {"date": "2013-10-13", "deaths": 115, "injured": "110+", "cause": "Panic triggered by rumor of bridge collapse."},
+        {"date": "2006-10-01", "deaths": 56, "injured": "200+", "cause": "Previous stampede incident."}
+      ]
+    },
+    {
+      "id": "mandhardevi_temple_satara",
+      "name": "Mandhardevi Temple",
+      "city": "Satara",
+      "state": "Maharashtra",
+      "type": "Religious Site",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Narrow, steep steps.", "common_triggers": "Devotees falling on slippery surfaces.", "terrain_issues": "Steep steps made slippery by offerings (coconuts)."},
+      "historical_incidents": [{"date": "2005-01-25", "deaths": 340, "injured": "600+", "cause": "People falling on slippery steps, causing a pile-up."}]
+    },
+    {
+      "id": "chamunda_devi_temple_jodhpur",
+      "name": "Chamunda Devi Temple",
+      "city": "Jodhpur",
+      "state": "Rajasthan",
+      "type": "Religious Site",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Narrow path leading to the temple.", "common_triggers": "Rumors of a bomb during Navratri festival.", "terrain_issues": "Located on a hilltop fort (Mehrangarh)."},
+      "historical_incidents": [{"date": "2008-09-30", "deaths": 250, "injured": "425+", "cause": "Stampede triggered by rumors of a bomb."}]
+    },
+    {
+      "id": "naina_devi_temple_himachal",
+      "name": "Naina Devi Temple",
+      "city": "Bilaspur",
+      "state": "Himachal Pradesh",
+      "type": "Religious Site",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Narrow queue railings.", "common_triggers": "Rumors of landslides, railings breaking.", "terrain_issues": "Hilltop temple with steep access."},
+      "historical_incidents": [
+        {"date": "2008-08-03", "deaths": 162, "injured": 47, "cause": "Stampede triggered by rumors of a rockslide."},
+        {"date": "1978-08-03", "deaths": 65, "injured": "Unknown", "cause": "Historical incident."}
+      ]
+    },
+    {
+      "id": "satsang_hathras_up",
+      "name": "Satsang (Bhole Baba)",
+      "city": "Hathras",
+      "state": "Uttar Pradesh",
+      "type": "Religious Gathering (Temporary)",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Improvised, narrow exit routes.", "common_triggers": "Preacher departing, causing a surge of devotees.", "terrain_issues": "Open fields with poor crowd control infrastructure."},
+      "historical_incidents": [{"date": "2024-07-02", "deaths": "121+", "injured": "Unknown", "cause": "Surge of devotees rushing towards the preacher's convoy."}]
+    },
+    {
+      "id": "vaishno_devi_shrine_jammu",
+      "name": "Mata Vaishno Devi Shrine",
+      "city": "Katra",
+      "state": "Jammu and Kashmir",
+      "type": "Religious Site",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Gate No. 3, narrow paths to sanctum.", "common_triggers": "Heavy rush on special days (New Year's), arguments between pilgrims.", "terrain_issues": "Hilly terrain."},
+      "historical_incidents": [{"date": "2022-01-01", "deaths": 12, "injured": "12+", "cause": "Stampede triggered by heavy rush and altercation."}]
+    },
+    {
+      "id": "elphinstone_road_station_mumbai",
+      "name": "Elphinstone (Prabhadevi) Station",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "type": "Transportation Hub",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Narrow foot-over-bridge.", "common_triggers": "Sudden rain, peak hour rush, rumors.", "terrain_issues": "Slippery surfaces, narrow structure."},
+      "historical_incidents": [{"date": "2017-09-29", "deaths": 23, "injured": 36, "cause": "Overcrowding on narrow bridge during rain."}]
+    },
+    {
+      "id": "gandhi_maidan_patna",
+      "name": "Gandhi Maidan",
+      "city": "Patna",
+      "state": "Bihar",
+      "type": "Public Ground",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Exit gates after large events.", "common_triggers": "Rumors, power cuts, post-event rush.", "terrain_issues": "Large, open space that can be poorly lit."},
+      "historical_incidents": [{"date": "2014-10-03", "deaths": 32, "injured": 26, "cause": "Stampede after Dussehra celebrations."}]
+    },
+    {
+      "id": "kripalu_maharaj_ashram_pratapgarh",
+      "name": "Kripalu Maharaj Ashram",
+      "city": "Pratapgarh",
+      "state": "Uttar Pradesh",
+      "type": "Religious Site",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Main gate during distribution events.", "common_triggers": "Rush for free food and clothes.", "terrain_issues": "Poorly managed entry/exit points."},
+      "historical_incidents": [{"date": "2010-03-04", "deaths": 63, "injured": 74, "cause": "Stampede during a distribution of free items."}]
+    },
+    {
+      "id": "godavari_pushkaram_rajahmundry",
+      "name": "Godavari Pushkaram Ghats",
+      "city": "Rajahmundry",
+      "state": "Andhra Pradesh",
+      "type": "Religious Gathering Site",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Bathing ghats.", "common_triggers": "Huge crowd on opening day of festival.", "terrain_issues": "River banks."},
+      "historical_incidents": [{"date": "2015-07-14", "deaths": 27, "injured": 20, "cause": "Stampede at a major bathing spot during Pushkaram festival."}]
+    },
+    {
+      "id": "new_delhi_railway_station",
+      "name": "New Delhi Railway Station",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "type": "Transportation Hub",
+      "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Platforms, foot-over-bridges.", "common_triggers": "Heavy rush of passengers during festival seasons (e.g., Kumbh Mela).", "terrain_issues": "Overcrowded platforms."},
+      "historical_incidents": [{"date": "2025-02-15", "deaths": 18, "injured": "12+", "cause": "Stampede as Maha Kumbh pilgrims rushed to catch trains."}]
+    }
+  ]
+}
