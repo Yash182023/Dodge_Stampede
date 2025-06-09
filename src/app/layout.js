@@ -330,7 +330,7 @@ export default function RootLayout({ children }) {
                 {/* Bottom Bar */}
                 <div className="border-t border-gray-200 dark:border-slate-700 mt-8 pt-6 flex flex-col sm:flex-row justify-between items-center">
                   <p className="text-xs text-gray-500 dark:text-gray-400">
-                    © 2024 Dodge Stampede. All rights reserved. Building safer communities.
+                    © 2025 Dodge Stampede. All rights reserved. Building safer communities.
                   </p>
                   <div className="flex items-center space-x-4 mt-4 sm:mt-0">
                     <span className="text-xs text-gray-500">Emergency: </span>
