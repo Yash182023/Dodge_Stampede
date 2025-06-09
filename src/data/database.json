@@ -41,6 +41,7 @@
       "city": "Bengaluru",
       "state": "Karnataka",
       "type": "Sports Stadium",
+      "map_url": "/maps/chinnaswamy.svg",
       "risk_factors": {"history_of_incidents": true, "known_bottlenecks": "Entry/exit gates during high-profile events.", "common_triggers": "Post-match celebrations, attempts at forcible entry, ticket queues.", "terrain_issues": "None."},
       "historical_incidents": [{"date": "2025-06-04", "deaths": 11, "injured": "50+", "cause": "Fans attempting forcible entry during IPL victory celebration."}]
     },
